@@ -1,0 +1,4 @@
+delete g, H, HS, SH, J, JS, SJ;
+param g{1..29} default 0;
+param J{1..25, 1..29} default 0;
+param H{1..29, 1..29} default 0;
