@@ -106,7 +106,6 @@ option show_stats 1;
 option presolve 0;
 option substout 0;
 option nl_comments 0;
-option nl_permute 0;
 option randseed 95;
 
 for {j_ in 1.._snvars} {
