@@ -2,3 +2,9 @@ delete g, H, HS, SH, J, JS, SJ;
 param g{1..29} default 0;
 param J{1..25, 1..29} default 0;
 param H{1..29, 1..29} default 0;
+data;
+param g :=
+	13	-3623696.8730668314
+	14	-1044478.4498322188
+	15	-1792213.581920785
+;
